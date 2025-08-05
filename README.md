@@ -1,114 +1,88 @@
-<div align="center">
-  <h1>William Mendes</h1>
-  <h3>Data-Driven Full Stack Developer</h3>
-  <p>Construindo uma carreira orientada a dados com visão estratégica para 2028.</p>
-  
-  <p align="center">
-    <a href="https://github.com/will-aam">
-      <img alt="Visualizações no Perfil" src="https://komarev.com/ghpvc/?username=will-aam&style=for-the-badge&color=0e75b6" />
-    </a>
-  </p>
+# >_William Mendes
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/wlliaam/" target="_blank">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:will00987654@gmail.com" target="_blank">
-      <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/will.aam/" target="_blank">
-      <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-  </p>
+<div>
+ <a href="https://www.linkedin.com/in/wlliaam/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF" />
+  </a>
+  <a href="mailto:will00987654@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Connect-000?style=for-the-badge&logo=gmail&logoColor=00FF7F" />
+  </a>
+  <a href="https://www.instagram.com/will.aam/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=F50057" />
+  </a>
+</div>
+
+## 𒆙 Sobre Mim
+> **Aqui não tem sorte:** _só estratégia, tecnologia e visão de longo prazo_.
+
+<h3>Sou um profissional em evolução, combinando o desenvolvimento Full Stack com a Análise de Dados para criar soluções de alto impacto. Atualmente cursando ADS, sigo um plano de desenvolvimento estratégico com o objetivo de consolidar minha carreira na tecnologia.</h3>
+
+### 𒀽 Linguagens e Tecnologias
+
+#### Full Stack Developer
+<p>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <!-- Versionamento, Deploy e Ferramentas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+</p>
+
+#### Data Analyst / Data-Driven Developer
+<p>
+  <!-- Linguagens e Bibliotecas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img width="40" height="40" src="https://img.icons8.com/fluency/38/sql.png" alt="sql"/>
+  <!-- Bancos de Dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud platform logo" />
+  <!-- Ferramentas de BI e Visualização -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="excel logo"/>
+  <img src="https://img.icons8.com/color/48/power-bi-2021.png" height="40" alt="power bi logo"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="tableau logo"/>
+</p>
+
+  <!-- <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,docker" /> -->
+
+## 𒆙 Minhas Estatísticas
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-aam&locale=pt-br&hide_border=true&bg_color=141321&title_color=E60073&text_color=A8A8A8&langs_count=7&colors=F92672,00FFFF,32CD32,FFD700,9400D3,FF5733" alt="Linguagens mais usadas com tema Neon" />
+  <img src="https://github-readme-stats.vercel.app/api?username=will-aam&show_icons=true&locale=pt-br&hide_border=true&bg_color=141321&title_color=E60073&text_color=A8A8A8&icon_color=00FFFF" alt="Estatísticas do GitHub de will-aam" />
+  
+
+### Gráfico de Atividade do GitHub
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=will-aam&hide_border=true&height=250&width=700&bg_color=141321&color=A8A8A8&line=00FFFF&point=F92672&area=true&area_color=141321&title_color=E60073&hide_title=true" alt="Gráfico de Atividade do GitHub" />
+  
+</div>
+
+## 𒆙 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/will-aam/OpalEats" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=will-aam&repo=OpalEats&theme=synthwave" />
+  </a>
+  <a href="https://github.com/will-aam/Icontrol" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=will-aam&repo=Icontrol&theme=synthwave" />
+  </a>
 </div>
 
 ---
 
-### 🎯 Sobre Mim
-
-Sou um profissional em construção com um plano sólido de evolução até 2028. Atualmente, concilio trabalho e estudos com foco total em:
-
--   🎓 **Formação Acadêmica:** Cursando Análise e Desenvolvimento de Sistemas (ADS).
--   🧠 **Especialização:** Aprofundando em Análise de Dados para uma futura pós-graduação na área.
--   💻 **Desenvolvimento Full Stack:** Foco em tecnologias orientadas a dados como JavaScript, Python e SQL.
--   📈 **Planejamento Estratégico:** Investimentos, controle financeiro e projetos paralelos como fontes de renda e crescimento.
--   🧳 **Objetivo Final:** Consolidação profissional e pessoal, com uma possível migração para o Canadá.
-
-> *Aqui não tem sorte: só estratégia, consistência e visão de longo prazo.*
-
----
-
-### 💻 Linguagens e Tecnologias
-
 <div align="center">
-  <p><strong>Front-End</strong></p>
-  <p>
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </p>
-  
-  <p><strong>Back-End</strong></p>
-  <p>
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  </p>
-
-  <p><strong>Análise de Dados e IA</strong></p>
-  <p>
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-    <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  </p>
-  
-  <p><strong>Bancos de Dados</strong></p>
-  <p>
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </p>
-
-  <p><strong>DevOps & Ferramentas</strong></p>
-  <p>
-    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  </p>
-</div>
-
----
-
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=will-aam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-aam&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br" />
-</div>
-
----
-
-### 🚀 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/will-aam/OpalEats">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=will-aam&repo=OpalEats&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/will-aam/stock">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=will-aam&repo=stock&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/will-aam/Icontrol">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=will-aam&repo=Icontrol&theme=tokyonight" />
-  </a>
+  <p><strong>Vamos nos conectar e construir algo incrível juntos!</strong></p>
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg?user=will-aam&theme=dark&color_snake=00BFFF&color_dots=E60073,F92672,A8A8A8,00FFFF" alt="snake" />
 </div>

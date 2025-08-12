@@ -1,1 +1,4 @@
 .qodo/
+
+# Ignore the Qodo configuration file
+.qodo/config.json

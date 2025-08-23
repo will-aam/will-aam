@@ -1,4 +1,4 @@
-name: GitHub Breakout
+name: generate breakout svg
 
 on:
   schedule:
@@ -6,17 +6,34 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate-svg:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      # Cada nível aqui tem dois espaços a mais que o anterior
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: cyprieng/github-breakout@90be7fe2a0909a65dfae356079298bce401094e0
+      - name: generate SVG
+        uses: cyprieng/github-breakout@v1.0.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_username: ${{ github.repository_owner }}
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "chore: update github-breakout svgs"
-          file_pattern: "*.svg"
+      - name: Move generated SVGs
+        run: |
+          mkdir -p images
+          mv output/light.svg images/breakout-light.svg
+          mv output/dark.svg images/breakout-dark.svg
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push SVGs
+        run: |
+          git add images/breakout-light.svg images/breakout-dark.svg
+          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
+          git push

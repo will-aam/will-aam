@@ -68,8 +68,23 @@
   </br>
   <h1 style="font-size: 2em; font-weight: bold; margin: 0;"><img src="https://emojis.slackmojis.com/emojis/images/1643515260/12822/yoshi_agree.png?1643515260" width="30"/> My Statistics</h1>
   </br>
+<div align="center">
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-aam&hide_border=true&bg_color=0A0A0A&title_color=FF0000&text_color=A8A8A8&langs_count=7&colors=FF0000,00FFFF,F8D030,32CD32,FFA500,9400D3" />
-    <img src="https://github-readme-stats.vercel.app/api?username=will-aam&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF0000&text_color=A8A8A8&icon_color=F8D030&ring_color=00FFFF" />
-  </div>
+| Statistics                                                                                            | Repositories by Language                                                                                           |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=will-aam&theme=aura_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=will-aam&theme=aura_dark) |
+
+| Productive Hours                                                                                                            | Most Used Language                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=will-aam&theme=aura_dark&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=will-aam&theme=aura_dark) |
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=will-aam&theme=aura_dark)
+
+</div>
+
+<div align="center">
+  <p><strong>Let's connect and build something amazing together!</strong></p>

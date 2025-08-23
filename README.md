@@ -9,13 +9,13 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-540669?style=for-the-badge&logo=linkedin&logoColor=00BFFF" />
   </a>
   <a href="#" target="_blank">
-        <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-540669?style=for-the-badge&logo=linkedin" />
+        <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-540669?style=for-the-badge&logo=linkedin" />
       </a>
 </div>
 
 ## 𒆙 About Me <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" />/<img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />
 
-> **Your custom quote here:** _inspirational phrase or motto_.
+> **The city is broken.** _We are the code that fixes it..._
 
 <h3>I’m an evolving professional, blending Full Stack Development with Data Analysis to build high-impact solutions. Currently pursuing a degree in Analysis and Systems Development (ADS), I follow a strategic growth plan to solidify my career in tech.</h3>
 
@@ -50,30 +50,28 @@
 <strong> 𒆙 Data Analyst</strong>
 
   <div>
-    <strong>▪︎ Linguagens & Bibliotecas:</strong><br>
+    <strong>▪︎ Languages ​​and Libraries:</strong><br>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,scala,d3,grafana" />
     </a>
   </div>
 
   <div>
-    <strong>▪︎ Bancos de Dados & Cloud:</strong><br>
+    <strong>▪︎ Databases and Cloud:</strong><br>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,dynamodb,gcp,azure" />
     </a>
   </div>
 
-  </br>
-
 ## 𒆙 My Stats
 
 <div align="center">
 
-| Estatísticas                                                                                     | Repositórios por Linguagem                                                                                    |
+| Statistics                                                                                       | Repositories by Language                                                                                      |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=will-aam&theme=aura) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=will-aam&theme=aura) |
 
-| Horário Produtivo                                                                                                      | Linguagem Mais Usada                                                                                            |
+| Productive Hours                                                                                                       | Most Used Language                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=will-aam&theme=aura&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=will-aam&theme=aura) |
 
@@ -86,7 +84,7 @@
 </div>
 
 <div align="center">
-  <p><strong>Vamos nos conectar e construir algo incrível juntos!</strong></p>
+  <p><strong>Let's connect and build something amazing together!</strong></p>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"

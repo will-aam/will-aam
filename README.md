@@ -1,29 +1,27 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=35&duration=3500&pause=1500&color=E52521&center=true&vCenter=true&width=800&lines=>_LETS+A+GO!;COLLECTING+CODE+COINS;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3500&pause=1500&color=8E24AA&center=true&vCenter=true&width=700&lines=%3E_INITIATING+NEURAL+LINK...;%3E_HELLO+WORLD!;%3E_WELCOME+TO+MY+NETWORK;)](https://git.io/typing-svg)
 
 ### My name is `William Mendes`, welcome to my `readme.md`!
 
-  <h2 align="center"> ⭐ Data Analyst | Full Stack Dev ⭐ </h2>
+<h2 align="center"> 👾 Data Analyst | Full Stack Dev 👾 </h2>
 
-  <div align="center">
-  <a href="https://www.linkedin.com/in/wlliaam/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+ <a href="https://www.linkedin.com/in/wlliaam/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-540669?style=for-the-badge&logo=linkedin&logoColor=00BFFF" />
   </a>
-    <a href="#" target="_blank">
-      <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-1E5A3A?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </div>
+  <a href="#" target="_blank">
+        <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-540669?style=for-the-badge&logo=linkedin" />
+      </a>
+</div>
 
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514042/13/1up.png?1643514042" width="25" /> About me <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" />/<img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /></h1>
+## 𒆙 About Me <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" />/<img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />
 
-> **Game Over is not an option:** _Only knowledge coins collected and castles conquered._.
+> **Your custom quote here:** _inspirational phrase or motto_.
 
-  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWR5NGZxcXhxdHUzbTNtNHRpcXEzajQ1N212dDdzYnd6d2R4eGpqaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8XuNCv0WBfQqpHdSR2/giphy.webp" width="200px" />
+<h3>I’m an evolving professional, blending Full Stack Development with Data Analysis to build high-impact solutions. Currently pursuing a degree in Analysis and Systems Development (ADS), I follow a strategic growth plan to solidify my career in tech.</h3>
 
-  <h3>I’m an evolving professional, blending Full Stack Development with Data Analysis to build high-impact solutions. Currently pursuing a degree in Analysis and Systems Development (ADS), I follow a strategic growth plan to solidify my career in tech.</h3>
+</br>
 
-  <h1>
-    <img src="https://slackmojis.com/emojis/227-powerup/download" width="25" /> Power-Up Inventory
-  </h1>
+<h2>𒆙 Tech Stack</h2>
 
 <strong>𒆙 Full Stack Developer</strong>
 
@@ -66,10 +64,30 @@
   </div>
 
   </br>
-  <h1 style="font-size: 2em; font-weight: bold; margin: 0;"><img src="https://emojis.slackmojis.com/emojis/images/1643515260/12822/yoshi_agree.png?1643515260" width="30"/> My Statistics</h1>
-  </br>
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=will-aam&hide_border=true&bg_color=0A0A0A&title_color=FF0000&text_color=A8A8A8&langs_count=7&colors=FF0000,00FFFF,F8D030,32CD32,FFA500,9400D3" />
-    <img src="https://github-readme-stats.vercel.app/api?username=will-aam&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF0000&text_color=A8A8A8&icon_color=F8D030&ring_color=00FFFF" />
-  </div>
+## 𒆙 My Stats
+
+| Estatísticas                                                                                     | Repositórios por Linguagem                                                                                    |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=will-aam&theme=aura) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=will-aam&theme=aura) |
+
+| Horário Produtivo                                                                                                      | Linguagem Mais Usada                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=will-aam&theme=aura&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=will-aam&theme=aura) |
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=will-aam&theme=aura)
+
+<div align="center">
+  <p><strong>Vamos nos conectar e construir algo incrível juntos!</strong></p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+</div>

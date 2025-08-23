@@ -97,3 +97,5 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 </div>
+
+![alt text](github-breakout/output/dark.svg)

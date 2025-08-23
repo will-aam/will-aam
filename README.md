@@ -67,6 +67,8 @@
 
 ## 𒆙 My Stats
 
+<div align="center">
+
 | Estatísticas                                                                                     | Repositórios por Linguagem                                                                                    |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=will-aam&theme=aura) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=will-aam&theme=aura) |
@@ -75,7 +77,13 @@
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=will-aam&theme=aura&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=will-aam&theme=aura) |
 
+</div>
+
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=will-aam&theme=aura)
+
+</div>
 
 <div align="center">
   <p><strong>Vamos nos conectar e construir algo incrível juntos!</strong></p>

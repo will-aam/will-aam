@@ -97,11 +97,3 @@
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 </div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
-    <img alt="GitHub Breakout" src="images/breakout-light.svg">
-  </picture>
-</p>

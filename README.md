@@ -67,9 +67,10 @@
 
 <div align="center">
 
-| Statistics                                                                                       | Repositories by Language                                                                                      |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=will-aam&theme=aura) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=will-aam&theme=aura) |
+| Statistics                                                                                       | Repositories by Language                                                                                                                |
+| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=will-aam&theme=aura) | ![Languages Overview](https://github-readme-stats.vercel.app/api/top-langs/?username=will-aam&langs_count=20&layout=compact&theme=aura) |
+|  |
 
 | Productive Hours                                                                                                       | Most Used Language                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |

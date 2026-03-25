@@ -35,7 +35,7 @@
   <div>
     <strong>▪︎ Backend & Databases:</strong><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,supabase" />
+      <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,supabase,prisma" />
     </a>
   </div>
 

@@ -28,7 +28,7 @@
   <div>
     <strong>▪︎ Frontend:</strong><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ts,bootstrap,tailwind,react,nextjs" />
+      <img src="https://skillicons.dev/icons?i=ts,tailwind,nextjs" />
     </a>
   </div>
 

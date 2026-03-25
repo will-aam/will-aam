@@ -35,7 +35,7 @@
   <div>
     <strong>▪︎ Backend & Databases:</strong><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,mongodb,firebase,supabase" />
+      <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,firebase,supabase" />
     </a>
   </div>
 
@@ -59,7 +59,7 @@
   <div>
     <strong>▪︎ Databases and Cloud:</strong><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,dynamodb,gcp,azure" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,dynamodb,gcp,azure" />
     </a>
   </div>
 

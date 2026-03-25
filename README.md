@@ -42,7 +42,7 @@
   <div>
     <strong>▪︎ DevOps & Ferramentas:</strong><br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,vite,netlify,wordpress,figma,md,vercel" />
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,vite,netlify,wordpress,figma,md,vercel,pnpm" />
     </a>
   </div>
   </br>
